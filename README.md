@@ -17,6 +17,9 @@ This Demo TMA showcases the integration with [@tonconnect/ui-react](https://www.
 
 ## Prerequisites
 
+### Install Node JS
+Install last [Node JS](https://nodejs.org/en/download/package-manager) version (expected v22.9.0 or higher).
+
 ### Create Mini App
 
 First of all, to correctly display the application and get the most accurate development experience, you
