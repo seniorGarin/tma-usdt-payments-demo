@@ -13,7 +13,7 @@ export function App() {
     const [location, reactNavigator] = useIntegration(navigator);
 
     useEffect(() => {
-        navigator.attach();
+        navigator.attach().then();
         return () => navigator.detach();
     }, [navigator]);
 
